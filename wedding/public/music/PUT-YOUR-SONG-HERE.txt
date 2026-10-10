@@ -1,0 +1,1 @@
+Put your song here and name it wedding-song.mp3 (or change the name in public/js/weddingConfig.js).
