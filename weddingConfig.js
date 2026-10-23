@@ -30,7 +30,7 @@ export const weddingConfig = {
   phoneLink: "+251922337855",
 
   // Music: put your mp3 in  public/music/  and change the file name here.
-  music: "/music/leyekunu.mp3",
+  music: "/leyekunu.mp3",
 
   // Our Story: replace the placeholders with your own text (nothing is invented).
   story: [
