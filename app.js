@@ -1,5 +1,5 @@
-import { weddingConfig as C, photoUploadUrl } from "/js/weddingConfig.js";
-import { weddingProgram } from "/js/weddingProgram.js";
+import { weddingConfig as C, photoUploadUrl } from "/weddingConfig.js";
+import { weddingProgram } from "/weddingProgram.js";
 const $ = (s) => document.querySelector(s),
   el = (t, p = {}, kids = []) => {
     const e = document.createElement(t);
